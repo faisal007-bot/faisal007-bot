@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @faisal
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on java projects 
+- 👋 Hi, I’m @Nerd
+- 👀 I’m interested in learning technologies
+- 🌱 I’m currently learning web development using java
+- 💞️ I’m looking to collaborate on real world projects
 - 📫 faisalkhan226536@gmail.com
 
 <!---
