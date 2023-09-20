@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nerd__007
 - 👀 I’m interested in learning technologies
-- 🌱 I’m a Java Developer 
+- 🌱 I’m a Java Software Engineer
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 khanmohammadfaisal467@gmail.com
 
