@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning technologies
 - 🌱 I’m a Java Software Engineer
 - 💞️ I’m looking to collaborate on real world projects
-- 📫 khanmohammadfaisal467@gmail.com
+- 📫 faisalkhan226536@gmail.com
 
 <!---
 faisal007-bot/faisal007-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
