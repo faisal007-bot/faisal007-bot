@@ -44,12 +44,12 @@ JSON          6 mins          ▒░░░░░░░░░░░░░░░�
 
 <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-🚧 **my todoist stats:**
+                                                                                                                    🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+                                                                                                                    🏆  85 Karma Points           
+                                                                                                                    🌸  Completed 4 tasks today           
+                                                                                                                    ✅  Completed 673 tasks so far           
+                                                                                                                    ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 
