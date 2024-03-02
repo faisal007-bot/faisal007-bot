@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @Faisal__007
 - 🌱 I’m a Java Software Engineer
 - 👀 Experienced Software Engineer with 3 years of experience in developing, testing and deploying REST APIs using Java, Hibernate, Spring Boot, Microservices, SQL and other technologies.
