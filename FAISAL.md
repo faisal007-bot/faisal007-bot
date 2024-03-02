@@ -54,7 +54,7 @@ YAML         6 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="FaisalKhan" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FAISAL__KHAN&show_icons=true&theme=gotham" alt="FaisalKhan" />
 
 <!---
 faisal007-bot/faisal007-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
