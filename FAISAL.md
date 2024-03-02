@@ -39,16 +39,17 @@ JSON 1 hr 6 mins   ▒░░░░░░░░░░░░░░░░░░░�
 
 <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-🚧 **my stats:**
 <!-- TODO-IST:START -->
-🏆  85 Karma Points           
-🌸  Completed 4 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+<div align="center">
+<p>🏆  85 Karma Points</p>       
+<p>🌸  Completed 4 tasks today</p>        
+<p>✅  Completed 673 tasks so far</p>          
+<p>⏳  Longest streak is 10 days</p>
+</div>
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+<p align="center">📈 my github stats</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faisal007-bot&show_icons=true&theme=gotham" alt="FaisalKhan" />
 
