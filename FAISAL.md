@@ -33,16 +33,16 @@ i learned a lot from the open-source community and i love how collaboration and 
 <!--START_SECTION-->
 
 ```txt
-TypeScript   8 hrs 43 mins   ████████████████▒░░░░░░░░   65.68 %
-JavaScript   2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Other        1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-JSON         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Java          8 hrs 43 mins   ████████████████▒░░░░░░░░   65.68 %
+Hibenate      2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Spring        1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Microservices 1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+JSON          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION-->
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
