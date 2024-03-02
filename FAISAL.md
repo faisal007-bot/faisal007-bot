@@ -7,18 +7,18 @@
   </a>
 </div>
 
-hi, i'm [Faisal Khan] a passionate Software Engineer.
+hi, i'm Faisal Khan a passionate Software Engineer.
 i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+- 💼 any work? do reach, [email](mailto:faisalkhan226536@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**languages and tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -29,19 +29,17 @@ i learned a lot from the open-source community and i love how collaboration and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<!--START_SECTION-->
 
 ```txt
-TypeScript   9 hrs 43 mins   ████████████████▒░░░░░░░░   65.68 %
+TypeScript   8 hrs 43 mins   ████████████████▒░░░░░░░░   65.68 %
 JavaScript   2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
 Other        1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
 JSON         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
 YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!--END_SECTION-->
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
