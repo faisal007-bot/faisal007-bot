@@ -28,11 +28,11 @@ i learned a lot from the open-source community and i love how collaboration and 
 <!--START_SECTION-->
 
 ```txt
-Java  8 hrs 43 mins ████████████████▒░░░░░░░░  65.68 %
-Spring  2 hrs 10 mins ▓░░░░░░░░░░░░░░░░░░░░░ 14.71 %
-Hibernate  1 hr 31 mins ██▓░░░░░░░░░░░░░░░░░░░░░░ 10.27 %
-REST 1 hr 10 mins ██░░░░░░░░░░░░░░░░░░░░░░░    07.94 %
-JSON 1 hr 6 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░    07.73 %
+Java  8 hrs 43 mins  ████████████████▒░░░░░░░░  65.68 %
+Spring  2 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Hibernate  1 hr 31 mins  ██▓░░░░░░░░░░░░░░░░    10.27 %
+REST 1 hr 10 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    07.94 %
+JSON 1 hr 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    07.73 %
 ```
 
 <!--END_SECTION-->
