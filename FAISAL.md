@@ -1,9 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
 </div>
+
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/faisal-khan-06894a2a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFdZCDYzUT92vY8BwIgN2Cg%3D%3D)">
+  <a href="https://www.linkedin.com/in/faisal-khan-06894a2a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFdZCDYzUT92vY8BwIgN2Cg%3D%3D)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="YOUR_HACKERRANK_PROFILE_URL_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-orange?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge" target="_blank"/>
   </a>
 </div>
 
@@ -40,7 +44,6 @@ octobot
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 - Robot Arm Boogies Hard: Getting Jiggy with it!
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
 <!---
 faisal007-bot/faisal007-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
