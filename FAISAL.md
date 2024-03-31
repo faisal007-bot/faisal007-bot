@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.hackerrank.com/profile/faisalkhan007" target="_blank">
+  <a href="https://www.linkedin.com/in/faisal-khan-06894a2a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hackerrank Badge"/>
   </a>
 
