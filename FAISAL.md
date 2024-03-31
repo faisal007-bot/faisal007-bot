@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/faisal-khan-06894a2a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFdZCDYzUT92vY8BwIgN2Cg%3D%3D)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
+  <a href="https://www.linkedin.com/in/faisal-khan-06894a2a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFdZCDYzUT92vY8BwIgN2Cg%3D%3D)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="YOUR_HACKERRANK_PROFILE_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-orange?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge" target="_blank"/>
+  <a href="https://www.hackerrank.com/profile/faisalkhan007">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-orange?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
 </div>
 
