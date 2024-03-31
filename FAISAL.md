@@ -7,13 +7,17 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/faisal-khan-06894a2a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/faisal-khan-06894a2a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hackerrank Badge"/>
   </a>
 
-  <a href="https://www.hackerrank.com/profile/faisalkhan007" target="_blank">
+  <a href="https://www.hackerrank.com/profile/faisalkhan007">
     <img src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Hackerrank Badge"/>
   </a>
+
+  <a href="https://faisalkhan226536.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+</a>
 </div>
 
 <div class="intro" style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #333; text-align: center; margin-top:10px;">
