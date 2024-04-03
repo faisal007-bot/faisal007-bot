@@ -21,7 +21,7 @@
 </div>
 
 <div class="intro" style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #333; text-align: center; margin-top:10px;">
-  <p align="center">Hi, I'm <strong style="color: #007bff;">Faisal Khan</strong>, a passionate Software Engineer.</p>
+  <p align="center">Hi, I'm <strong style="color: #007bff;">Faisal Khan</strong> an experienced Software Engineer</p>
    <p align="center">if you want to reach out to me then you can mail me by clicking on this link => <a href="mailto:faisalkhan226536@gmail.com">Faisal Khan</a></p>
 </div>
 
